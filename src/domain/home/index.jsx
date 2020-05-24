@@ -12,7 +12,7 @@ export const HomePage = () => {
       <p>hmmm, need to get a css reset probably</p>
       <p>
         I am working on pushing this to github pages now! Trying another
-        change.. hmm maybe this
+        change.. hmm maybe this... nah this!
       </p>
     </div>
   );
