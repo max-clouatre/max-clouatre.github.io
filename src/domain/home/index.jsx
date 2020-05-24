@@ -10,7 +10,10 @@ export const HomePage = () => {
       <p>First I am going to start with the initial app structure.</p>
 
       <p>hmmm, need to get a css reset probably</p>
-      <p>I am working on pushing this to github pages now!</p>
+      <p>
+        I am working on pushing this to github pages now! Trying another
+        change..
+      </p>
     </div>
   );
 };
