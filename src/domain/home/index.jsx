@@ -14,6 +14,7 @@ export const HomePage = () => {
         I am working on pushing this to github pages now! Trying another
         change.. hmm maybe this... nah this!
       </p>
+      <p>I think it worked!!!</p>
     </div>
   );
 };
